@@ -1,5 +1,5 @@
 module.exports = {
   // reporters: ['default', './misc/JestReporter.js'],
-  setupTestFrameworkScriptFile: './setup.js',
+  setupTestFrameworkScriptFile: './e2e/init.js',
 };
 

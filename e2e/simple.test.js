@@ -1,4 +1,4 @@
-const sleep = require('./sleep');
+const sleep = require('../lib/utils/sleep');
 
 beforeAll(async () => {
   console.log('install app');

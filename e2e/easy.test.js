@@ -1,5 +1,3 @@
-const sleep = require('./sleep');
-
 it('passing test', async () => {
   console.log('test should pass');
 });
